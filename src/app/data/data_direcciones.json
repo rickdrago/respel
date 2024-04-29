@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "direccion": "Portugal 61, Santiago",
+      "sucursal": "(CAS CHICUREO)",
+      "fecha": "02/04/2024"
+    },
+    {
+        "id": 2,
+        "direccion": "Portugal 61, Santiago 2",
+        "sucursal": "(CAS CHICUREO 2)",
+        "fecha": "02/04/2024"
+    },
+    {
+        "id": 3,
+        "direccion": "Portugal 61, Santiago 2",
+        "sucursal": "(CAS CHICUREO 2)",
+        "fecha": "02/04/2024"
+    }
+  ]
